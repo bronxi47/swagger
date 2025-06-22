@@ -1,10 +1,10 @@
 {
-    "url": "https://raw.githubusercontent.com/facundoic/xss/refs/heads/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/bronxi47/swagger/refs/heads/main/test.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/facundoic/xss/refs/heads/main/test.yaml",
+        "url": "https://raw.githubusercontent.com/bronxi47/swagger/refs/heads/main/test.yaml",
         "name": "Foo"
     },{
-        "url": "https://raw.githubusercontent.com/facundoic/xss/refs/heads/main/test2.yaml",
+        "url": "https://raw.githubusercontent.com/bronxi47/swagger/refs/heads/main/test2.yaml",
         "name": "Foo2"
     }]
 }
